@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @joshuaochia
 - 👀 I’m interested in MANGA!
-- 🌱 I’m currently learning Frontend
 - 💞️ I’m looking to collaborate on Personal projects
 - 📫 How to reach me: joshua@ochia.dev
 
