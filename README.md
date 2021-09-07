@@ -1,6 +1,11 @@
-- 👋 Hi, I’m @joshuaochia
-- 👀 I’m interested in MANGA!
-- 💞️ I’m looking to collaborate on Personal projects
+# Hey there! I don't think we've met before, I'm Joshua Ochia.
+<img src="https://64.media.tumblr.com/a7edf76986bb11e927661cd2573259d8/tumblr_oonrsvdoP21sq1l9mo2_500.gif" width="100%" height="100%" />
+
+
+
+
+- 🔊  As you can see I love Paramore!
+- 🧑‍💻 Actively learning concepts and writing code
 - 📫 How to reach me: joshua@ochia.dev
 
 <!---
