@@ -8,6 +8,11 @@
 - 🧑‍💻 Actively learning concepts and writing code
 - 📫 How to reach me: joshua@ochia.dev
 
+
+### Connect with me:
+[<img align="left" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Tumblr2_colored_svg-512.png" width="22px" />](https://twitter.com/ochia_dev)
+[<img align="left" src="https://cdn3.iconfinder.com/data/icons/picons-social/57/11-linkedin-512.png" width="23px" />](https://www.linkedin.com/in/joshuaochia/)
+
 <!---
 joshuaochia/joshuaochia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
